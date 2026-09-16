@@ -1,0 +1,20 @@
+{
+    "titulo": "Estudando Python",
+    "descricao": "criando api com FastAPI",
+    "concluida": 0
+}
+
+{
+    "titulo": "Estudando Java",
+    "descricao": "Java melhor que Python",
+    "concluida": 1
+}
+
+{
+    "titulo": "Aprendendo HTML e CSS",
+    "descricao": "Isso não linguagem de programação",
+    "concluida": 1
+}
+
+
+
